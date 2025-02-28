@@ -1,0 +1,9 @@
+00000001,Dog,Buddy,M,True,Golden Retriever,Golden,15/06/2015,Up to date,Micro-chipped:123456789,200
+00000002,Cat,Whiskers,F,False,Siamese,White,08/09/2022,Late,Micro-chipped:987654321,300
+00000003,Bird,Polly,M,False,Parrot,Green,23/01/2018,Up to date,Bar code:ABC123,200
+00000004,Rabbit,Thumper,F,True,Dutch,Brown,02/05/2019,Unknown,None,200
+00000005,Small & Furry,Chewy,M,False,Hamster,Gray,14/11/2023,Up to date,None,300
+00000006,Fish,Nemo,M,False,Clownfish,Orange,01/07/2021,Unknown,None,200
+00000007,Barnyard,Bessie,F,True,Cow,Black & White,12/04/2012,Up to date,Micro-chipped:555888777,100
+00000008,Dog,Max,M,True,Labrador,Black,20/05/2020,Up to date,Micro-chipped:112233,200
+00000009,Dog,Min,M,True,Labrador,Black,20/05/2020,Up to date,Micro-chipped:112233,200
